@@ -1,41 +1,73 @@
-# 👋 Hi, I'm Harshal Shinde
+# 👋 Hello World..!, I'm Harshal Shinde
 
-**Certified Hyperledger Fabric Administrator | Aspiring Data Engineer | Blockchain & Data Enthusiast**
+**IITian | Data Engineer | ETL & Analytics Pipelines | Cloud & Big Data Systems**
 
 ---
 
 ### 👨‍💻 About Me
-I'm a results-driven professional with over 3 years of experience in blockchain development and a recent focus on Data Engineering. My journey in technology includes developing secure and scalable blockchain networks and expanding my expertise into data engineering and big data solutions. With hands-on knowledge in Hyperledger Fabric, Docker, Kubernetes, and CI/CD pipelines, I thrive on building impactful projects that leverage distributed systems and data-driven insights.
 
-### 💼 Experience and Skills
-- **Blockchain**: Certified Hyperledger Fabric Administrator with expertise in deploying and managing enterprise blockchain networks using Docker, Kubernetes, and Helm.
-- **Data Engineering**: Skilled in data tools and frameworks like Apache Spark, Hadoop, Hive, PySpark, and ETL processes with NiFi and Airflow.
-- **Programming Languages**: Python, SQL
-- **Cloud Platforms**: Experienced with AWS and GCP for scalable data solutions.
-- **Databases**: Proficient in SQL/NoSQL databases, including HBase, MongoDB, and Cassandra.
+I’m a **Data Engineer with 2.5+ years of hands-on experience** building **scalable ETL/ELT pipelines, analytics platforms, and data-driven applications** across cloud and hybrid environments. My core focus is on **data reliability, performance optimization, and analytics-ready data modeling** using modern data engineering tools.
 
-### 🔧 Tools & Technologies
-- **Big Data**: Spark, Hadoop, Hive
-- **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
-- **ETL**: Apache NiFi, Airflow, Informatica
-- **Blockchain**: Hyperledger Fabric
-- **Containers and Orchestration**: Docker, Kubernetes
-- **Monitoring**: Prometheus, Grafana
-
-### 📈 Projects
-- **NSL Blockchain Service**: Led a Hyperledger Fabric-based DLT project, integrating services for blockchain-as-a-service applications.
-- **Concert Ticketing with NFTs**: Developed a ticketing app for NFT creation and resale using ERC 1155 tokens on Hyperledger Fabric.
-- **Concert Management System**: Built a web-based system for managing event operations, using .NET Core, Azure Functions, and Angular.
-- **AI-powered Chatbot**: Created a college info chatbot using Flask, Python, and YAML for AI capabilities.
-
-### 📫 Connect with Me
-- **Email**: harshalshinde437@gmail.com
-- **LinkedIn**: [Harshal Shinde](https://www.linkedin.com/in/harshal-shinde-387458209/)
-- **GitHub**: [harshalshinde437](https://github.com/harshalshinde437)
+I enjoy working at the intersection of **data pipelines, analytics, and applied machine learning**, designing systems that transform raw, noisy data into **actionable insights**. I also have prior exposure to distributed systems and containerized deployments, which helps me build production-ready data platforms.
 
 ---
 
-Thank you for visiting my profile! I’m passionate about leveraging data and blockchain to create innovative solutions, and I’m excited to contribute to open-source projects and learn from the GitHub community.
+### 🛠️ Technical Skills
+
+* **Data Engineering**: Advanced SQL, Python, dbt, Apache Airflow, ETL / ELT Pipelines, Data Modeling, Data Quality & Validation
+* **Big Data & Streaming**: Apache Spark, PySpark, Kafka
+* **Cloud Platforms**: Google Cloud Platform (BigQuery, Dataflow, Dataproc, GCS), AWS (foundational)
+* **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
+* **Analytics & ML (Foundational)**: Pandas, NumPy, EDA, Time-Series Forecasting, Classification Models
+* **Visualization**: Power BI, Streamlit, Plotly, Folium
+* **DevOps**: Docker, Kubernetes, Git, CI/CD
+
+---
+
+### 📊 Featured Projects
+
+* **WorldTradeX – Supply Chain Analytics Platform**
+
+  * Built **scalable ETL/ELT pipelines on GCP** using Airflow, Spark, Kafka, BigQuery, and Dataflow
+  * Designed **dbt-based data models and quality checks** to deliver analytics-ready datasets
+  * Deployed workflows using Docker & Kubernetes to improve scalability and operational reliability
+
+* **Social Media Hashtag & Sentiment Analytics Dashboard**
+
+  * Designed an **end-to-end data ingestion and analytics system** supporting CSV and multi-platform APIs
+  * Built NLP pipelines for **sentiment analysis, NER, hashtag trends, engagement metrics, and crisis detection**
+  * Stored processed data in SQLite and visualized insights via **interactive Streamlit dashboards**
+
+* **Air Quality Intelligence & Forecasting Dashboard**
+
+  * Built **Airflow-based data pipelines** to ingest live weather and AQI data into MySQL
+  * Developed **multi-horizon AQI forecasting models (3h/8h/12h)** and managed model artifacts
+  * Delivered city-level analytics, geospatial heatmaps, and trend analysis using Streamlit & Plotly
+
+* **Credit Card Fraud Detection (ML Pipeline)**
+
+  * Implemented end-to-end ML workflow using Python and SQL
+  * Exposed predictions via REST APIs and prepared containerized deployment
+
+---
+
+### 🎓 Education
+
+* **M.Tech in Data Engineering** — Indian Institute of Technology, Jodhpur (**IIT Jodhpur**, 2024 - 2026)
+* **MCA** — R. H. Sapat College of Engineering, Nashik (2018 - 2021)
+
+---
+
+### 📫 Connect With Me
+
+* **Email**: [harshalshinde437@gmail.com](mailto:harshalshinde437@gmail.com)
+* **LinkedIn**: [https://www.linkedin.com/in/harshal-shinde-387458209/](https://www.linkedin.com/in/harshal-shinde-387458209/)
+* **GitHub**: [https://github.com/harshalshinde437](https://github.com/harshalshinde437)
+
+---
+
+⭐ *Actively seeking roles in **Data Engineering, Analytics Engineering, and Platform Data teams**, where I can build scalable, high-impact data systems.*
+
 
 
 <!---
